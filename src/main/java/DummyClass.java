@@ -1,4 +1,4 @@
-package my.site.com;
+package my.newsite.com;
 
 public class DummyClass { 
 
